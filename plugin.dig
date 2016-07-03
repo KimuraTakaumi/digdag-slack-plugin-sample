@@ -1,0 +1,13 @@
+_export:
+  plugin:
+    repositories:
+      - file://${repository_path}
+    dependencies:
+      - io.digdag.plugin:digdag-plugin-example:0.1.0
+
++step1:
+  slack>: message.txt
+  webhook: https://hooks.slack.com/services/XXXXXX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  channel: general
+  username: webhookbot
+  icon_emoji: ghost

@@ -1,0 +1,9 @@
+fullName: "+plugin+step1"
+state: "success"
+result:
+  subtaskConfig: {}
+  exportParams: {}
+  storeParams: {}
+  report:
+    inputs: []
+    outputs: []
