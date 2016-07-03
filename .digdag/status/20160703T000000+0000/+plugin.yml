@@ -1,9 +1,0 @@
-fullName: "+plugin"
-state: "success"
-result:
-  subtaskConfig: {}
-  exportParams: {}
-  storeParams: {}
-  report:
-    inputs: []
-    outputs: []
